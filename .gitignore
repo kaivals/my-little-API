@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/mylittle-project/obj/Debug/net9.0/mylittle-project.AssemblyInfoInputs.cache
+/mylittle-project/obj/Debug/net9.0/mylittle-project.csproj.CoreCompileInputs.cache
+/mylittle-project/obj/Debug/net9.0/mylittle-project.sourcelink.json
+/mylittle-project.infrastructure/obj/Debug/net9.0/mylittle-project.infrastructure.sourcelink.json
+/mylittle-project.infrastructure/obj/Debug/net9.0/mylittle-project.infrastructure.csproj.CoreCompileInputs.cache
+/mylittle-project.Application/obj/Debug/net9.0/mylittle-project.Application.sourcelink.json
+/mylittle-project.Application/obj/Debug/net9.0/mylittle-project.Application.csproj.CoreCompileInputs.cache
+/mylittle-project.Application/obj/Debug/net9.0/mylittle-project.Application.AssemblyInfoInputs.cache
+/mylittle-project.Domain/obj/Debug/net9.0/mylittle-project.Domain.AssemblyInfoInputs.cache
+/mylittle-project.Domain/obj/Debug/net9.0/mylittle-project.Domain.csproj.CoreCompileInputs.cache
+/mylittle-project.Domain/obj/Debug/net9.0/mylittle-project.Domain.sourcelink.json
+/mylittle-project.infrastructure/obj/Debug/net9.0/mylittle-project.infrastructure.AssemblyInfoInputs.cache
