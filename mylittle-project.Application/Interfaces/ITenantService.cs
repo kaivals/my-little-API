@@ -25,7 +25,10 @@ namespace mylittle_project.Application.Interfaces
         Task<bool> UpdateFeatureTogglesAsync(Guid tenantId, FeatureSettingsDto dto);
         Task<bool> UpdateStoreAsync(Guid tenantId, StoreDto dto);
 
+<<<<<<< HEAD
         Task<IEnumerable<ProductDto>> GetProductListingsByTenantAsync(Guid tenantId);
+=======
+>>>>>>> 00dbda0da5a79de1b8ac5b8d7df47caf7d11e375
 
     }
 }

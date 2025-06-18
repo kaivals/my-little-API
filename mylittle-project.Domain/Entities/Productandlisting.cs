@@ -9,6 +9,7 @@ namespace mylittle_project.Domain.Entities
     public class Productandlisting
     {
   
+        public int Id { get; set; } // Primary key
         public string productname { get; set; }
         public string Category { get; set; }
         public string Brand { get; set; }

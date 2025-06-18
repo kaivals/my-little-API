@@ -20,6 +20,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 
 builder.Services.AddScoped<ITenantService, TenantService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+
+
 
 var app = builder.Build();
 

@@ -69,7 +69,7 @@ namespace mylittle_project.API.Controllers
         }
 
         // POST: api/tenants
-        [HttpPost]
+        [HttpPost]  
         public async Task<IActionResult> CreateTenant([FromBody] FullTenantDto dto)
         {
             if (dto == null)
@@ -96,12 +96,6 @@ namespace mylittle_project.API.Controllers
         }
 
 
-        [HttpGet("{tenantId}/products")]
-        public async Task<IActionResult> GetProducts(Guid tenantId)
-        {
-            var result = await _tenantService.GetProductListingsByTenantAsync(tenantId);
-            return Ok(result);
-        }
 
 
 
