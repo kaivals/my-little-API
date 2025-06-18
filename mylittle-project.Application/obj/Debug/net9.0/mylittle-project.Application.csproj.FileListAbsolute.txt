@@ -1,0 +1,15 @@
+E:\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
