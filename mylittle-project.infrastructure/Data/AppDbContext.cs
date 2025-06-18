@@ -22,6 +22,12 @@ namespace mylittle_project.infrastructure.Data
 
         public DbSet<Productandlisting> Products { get; set; }
 
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+       
+        public DbSet<Dealer> Dealers { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
