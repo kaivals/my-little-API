@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "mylittle_project.Controllers.ProductAndListingController",
+    "Method": "GetProductsByPortal",
+    "RelativePath": "api/ProductAndListing/ByPortal/{portal}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "portal",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mylittle_project.Controllers.ProductAndListingController",
+    "Method": "GetProductsByTenant",
+    "RelativePath": "api/ProductAndListing/ByTenant/{tenantId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "mylittle_project.API.Controllers.TenantsController",
     "Method": "GetAll",
     "RelativePath": "api/Tenants",

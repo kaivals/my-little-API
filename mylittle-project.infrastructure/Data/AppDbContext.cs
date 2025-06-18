@@ -1,8 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using mylittle_project.Domain.Entities;
 
-
-
 namespace mylittle_project.infrastructure.Data
 {
     public class AppDbContext : DbContext
@@ -17,7 +15,6 @@ namespace mylittle_project.infrastructure.Data
         public DbSet<FeatureSettings> FeatureSettings { get; set; }
         public DbSet<DomainSettings> DomainSettings { get; set; }
         public DbSet<ActivityLog> ActivityLogs { get; set; }
-        // If you have other entities like Subscription, Filter, etc. add them too
         public DbSet<Subscription> Subscriptions { get; set; }
         public DbSet<Filter> Filters { get; set; }
         public DbSet<BrandingText> BrandingTexts { get; set; }
@@ -25,7 +22,16 @@ namespace mylittle_project.infrastructure.Data
 
         public DbSet<Productandlisting> Products { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
+            modelBuilder.Entity<Productandlisting>(entity =>
+            {
+                entity.Property(e => e.TenantId)
+                      .HasColumnType("uniqueidentifier");
+            });
+
+        }
     }
 }
-

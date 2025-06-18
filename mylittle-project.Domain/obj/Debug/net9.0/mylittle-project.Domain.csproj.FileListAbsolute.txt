@@ -12,3 +12,18 @@ E:\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-pro
 E:\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
 E:\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
 E:\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll

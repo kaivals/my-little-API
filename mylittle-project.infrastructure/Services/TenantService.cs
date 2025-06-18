@@ -293,27 +293,6 @@ namespace mylittle_project.infrastructure.Services
 
 
 
-        public async Task<IEnumerable<ProductDto>> GetProductListingsByPortalAsync(string portal)
-        {
-            var listings = await _context.Products
-                .Where(p => p.Portal == portal)
-                .ToListAsync();
-
-            return listings.Select(p => new ProductDto
-            {
-                productname = p.productname,
-                Category = p.Category,
-                Brand = p.Brand,
-                Price = p.Price,
-                Stock = p.Stock,
-                Status = p.Status,
-                Portal = p.Portal
-            });
-        }
-
-        public Task<IEnumerable<ProductDto>> GetProductListingsByTenantAsync(Guid tenantId)
-        {
-            throw new NotImplementedException();
-        }
+      
     }
 }
