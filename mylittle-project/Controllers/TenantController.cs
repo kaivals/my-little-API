@@ -73,6 +73,7 @@ namespace mylittle_project.API.Controllers
         public async Task<IActionResult> CreateTenant([FromBody] FullTenantDto dto)
         {
             if (dto == null)
+
                 return BadRequest("Invalid tenant payload.");
 
             var createdTenant = await _tenantService.CreateAsync(dto);
